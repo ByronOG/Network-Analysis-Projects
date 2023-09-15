@@ -1,4 +1,4 @@
-# Network-Analysis-Projects
+# network-analysis
 ## Analysing Twitter Data of Top European Football Clubs
 ## The Data
 - Provided by UCD
